@@ -17,7 +17,12 @@ a Tech Company and learning new skills.
 - 💬 Ask me about anything,Let we discuss together!
 - 🌱 I’m currently learning Blockchain Development/Consulting
 - 📫 Reach me at <i>juanmanuel.lanuza@gmail.com</i>
-- You can see on the right how hard worker I am. :)
+
+<!--START_SECTION:Comment-->
+```text
+You can see on the right how hard worker I am. :)
+```
+<!--END_SECTION:Comment-->
 
 <br />
 
